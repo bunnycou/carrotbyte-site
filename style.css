@@ -1,0 +1,29 @@
+.center {
+    text-align: center;
+    letter-spacing: 1pt;
+}
+.title {
+    text-align:center; padding-top:1em;
+    letter-spacing: 1pt;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+a {
+    color: orange;
+}
+
+@font-face {
+    font-family: 'Coolvetica';
+    src:
+        url('coolvetica.otf') 
+        format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+body {
+    font-family: 'coolvetica.ttf', sans-serif;
+    background-color: ebebeb;
+}
