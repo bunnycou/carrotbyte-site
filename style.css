@@ -25,5 +25,7 @@ a {
   
 body {
     font-family: 'coolvetica.ttf', sans-serif;
-    background-color: ebebeb;
+    background-color: #00aeff;
+    color: #fff;
+    text-shadow: #000 0.1em 0.1em 0.1em;
 }
